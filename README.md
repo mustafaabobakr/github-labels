@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="200">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" data-type="color" width="100">
   <br>
   GitHub Labels
   <br>
@@ -22,193 +22,193 @@
   <th>color preview</th>
  </tr>
  <tr data-type="row">
-  <td width="200">
+  <td data-type="label" width="100">
   
 ```
 Bug 🐞
 ```
 
   </td>
-  <td  width="200">
+  <td data-type="desc" width="100">
 
 ```
 Something isn't working
 ```
 
   </td>
-  <td width="200">
+  <td data-type="color" width="100">
 
 ```
 #d73a4a
 ```
 
   </td>
-  <td>
+  <td data-type="preview">
 
-<img width="90" alt="before" src=".github/bug.png">
+<img width="120" alt="before" src=".github/bug.png">
   </td>
  </tr>
  <tr data-type="row">
-  <td width="200">
+  <td data-type="label" width="100">
 
 ```
 fix 🛠️ 
 ```
 
   </td>
-  <td  width="200">
+  <td  data-type="desc" width="100">
 
 ```
 bug fixes
 ```
 
   </td>
-  <td width="200">
+  <td data-type="color" width="100">
 
 ```
 #0E8A16
 ```
 
   </td>
-  <td>
+  <td data-type="preview">
 
-<img width="90" alt="before" src=".github/fix.png">
+<img width="120" alt="before" src=".github/fix.png">
   </td>
  </tr>
  <tr data-type="row">
-  <td width="200">
+  <td data-type="label" width="100">
 
 ```
 assets 📦
 ```
 
   </td>
-  <td  width="200">
+  <td  data-type="desc" width="100">
 
 ```
 assets related changes
 ```
 
   </td>
-  <td width="200">
+  <td data-type="color" width="100">
 
 ```
 #FFE5CF
 ```
 
   </td>
-  <td>
+  <td data-type="preview">
 
-<img width="90" alt="before" src=".github/assets.png">
+<img width="120" alt="before" src=".github/assets.png">
   </td>
  </tr>
 
  <tr data-type="row">
-  <td width="200">
+  <td data-type="label" width="100">
 
 ```
 Refactor 🟡
 ```
 
   </td>
-  <td  width="200">
+  <td  data-type="desc" width="100">
 
 ```
 any Refactor related PRs
 ```
 
   </td>
-  <td width="200">
+  <td data-type="color" width="100">
 
 ```
 #FBCA04
 ```
 
   </td>
-  <td>
+  <td data-type="preview">
 
-<img width="90" alt="before" src=".github/refactor.png">
+<img width="120" alt="before" src=".github/refactor.png">
   </td>
  </tr>
  <tr data-type="row">
-  <td width="200">
+  <td data-type="label" width="100">
 
 ```
 workaround 💡
 ```
 
   </td>
-  <td  width="200">
+  <td  data-type="desc" width="100">
 
 ```
 Temporary fix to avoid a known issue
 ```
 
   </td>
-  <td width="200">
+  <td data-type="color" width="100">
 
 ```
 #FBCA04
 ```
 
   </td>
-  <td>
+  <td data-type="preview">
 
-<img width="90" alt="before" src=".github/workaround.png">
+<img width="120" alt="before" src=".github/workaround.png">
   </td>
  </tr>
  <tr data-type="row">
-  <td width="200">
+  <td data-type="label" width="100">
 
 ```
 Validation 🔐
 ```
 
   </td>
-  <td  width="200">
+  <td  data-type="desc" width="100">
 
 ```
 any Validation related changes
 ```
 
   </td>
-  <td width="200">
+  <td data-type="color" width="100">
 
 ```
 #E480BB
 ```
 
   </td>
-  <td>
+  <td data-type="preview">
 
-<img width="90" alt="before" src=".github/validation.png">
+<img width="120" alt="before" src=".github/validation.png">
   </td>
  </tr>
  <tr data-type="row">
-  <td width="200">
+  <td data-type="label" width="100">
 
 ```
 documentation 📝
 ```
 
   </td>
-  <td  width="200">
+  <td  data-type="desc" width="100">
 
 ```
 Improvements or additions to documentation
 ```
 
   </td>
-  <td width="200">
+  <td data-type="color" width="100">
 
 ```
 #0075ca
 ```
 
   </td>
-  <td>
+  <td data-type="preview">
 
-<img width="90" alt="before" src=".github/documentation.png">
+<img width="120" alt="before" src=".github/documentation.png">
   </td>
  </tr>
 </table>
