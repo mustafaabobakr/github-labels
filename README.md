@@ -20,7 +20,7 @@
   <th>Label</th>
   <th>description</th>
   <th>color</th>
-  <th>color preview</th>
+  <th>preview</th>
  </tr>
  <tr data-type="row">
   <td data-type="label">
@@ -468,7 +468,7 @@ any HTTP related change
   <th>Label</th>
   <th>description</th>
   <th>color</th>
-  <th>color preview</th>
+  <th>preview</th>
  </tr>
  <tr data-type="row">
   <td data-type="label">
