@@ -223,7 +223,8 @@ Performance ⚡️
   <td  data-type="desc">
 
 ```
-for Improving performance or slow performance issues
+for Improving performance 
+or slow performance issues
 ```
 
   </td>
