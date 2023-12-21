@@ -29,7 +29,7 @@ Bug 🐞
 ```
 
   </td>
-  <td  width="300">
+  <td  width="200">
 
 ```
 Something isn't working
@@ -56,7 +56,7 @@ fix 🛠️
 ```
 
   </td>
-  <td  width="300">
+  <td  width="200">
 
 ```
 bug fixes
@@ -83,7 +83,7 @@ assets 📦
 ```
 
   </td>
-  <td  width="300">
+  <td  width="200">
 
 ```
 assets related changes
@@ -111,7 +111,7 @@ Refactor 🟡
 ```
 
   </td>
-  <td  width="300">
+  <td  width="200">
 
 ```
 any Refactor related PRs
@@ -138,7 +138,7 @@ workaround 💡
 ```
 
   </td>
-  <td  width="300">
+  <td  width="200">
 
 ```
 Temporary fix to avoid a known issue
@@ -165,7 +165,7 @@ Validation 🔐
 ```
 
   </td>
-  <td  width="300">
+  <td  width="200">
 
 ```
 any Validation related changes
@@ -192,7 +192,7 @@ documentation 📝
 ```
 
   </td>
-  <td  width="300">
+  <td  width="200">
 
 ```
 Improvements or additions to documentation
