@@ -18,9 +18,9 @@
 <table>
  <tr>
   <th>Label</th>
-  <th>description</th>
-  <th>color</th>
-  <th>preview</th>
+  <th>Description</th>
+  <th>Color</th>
+  <th>Preview</th>
  </tr>
  <tr data-type="row">
   <td data-type="label">
