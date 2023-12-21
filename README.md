@@ -1,10 +1,11 @@
 <h1 align="center">
   <br>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" data-type="color" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" data-type="color" width="300">
   <br>
   GitHub Labels
   <br>
 </h1>
+  <p align="center">You can manage your work on GitHub by creating labels to categorize issues, pull requests, and discussions.</p>
 
 ## [Table of Contents](#table-of-contents)
 
