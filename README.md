@@ -196,7 +196,7 @@ documentation 📝
   <td  data-type="desc">
 
 ```
-Improvements or additions to documentation
+add/improve the documentation
 ```
 
   </td>
@@ -386,7 +386,8 @@ New Behavior 🆕
   <td  data-type="desc">
 
 ```
-any change in component/function Behavior
+any change in component
+or function Behavior
 ```
 
   </td>
