@@ -76,6 +76,33 @@ bug fixes
 <img width="120" alt="before" src=".github/fix.png">
   </td>
  </tr>
+  <tr data-type="row">
+  <td data-type="label">
+
+```
+DON'T Merge ❌
+```
+
+  </td>
+  <td  data-type="desc">
+
+```
+there is a better approach
+```
+
+  </td>
+  <td data-type="color">
+
+```
+#B60205
+```
+
+  </td>
+  <td data-type="preview" width="200">
+
+<img width="120" alt="dont_merge" src=".github/dont_merge.png">
+  </td>
+ </tr>
  <tr data-type="row">
   <td data-type="label">
 
