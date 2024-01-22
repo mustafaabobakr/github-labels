@@ -484,6 +484,33 @@ any HTTP related change
 <img width="120" alt="before" src=".github/api_change.png">
   </td>
  </tr>
+ <tr data-type="row">
+  <td data-type="label">
+
+```
+Auth 🔑
+```
+
+  </td>
+  <td  data-type="desc">
+
+```
+any Authentication related changes
+```
+
+  </td>
+  <td data-type="color">
+
+```
+#ECD414
+```
+
+  </td>
+  <td data-type="preview" width="200">
+
+<img width="120" alt="before" src=".github/auth.png">
+  </td>
+ </tr>
 </table>
 
 ## [Frontend Labels](#frontend-labels)
