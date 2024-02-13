@@ -511,6 +511,34 @@ any Authentication related changes
 <img width="120" alt="before" src=".github/auth.png">
   </td>
  </tr>
+ <tr data-type="row">
+  <td data-type="label">
+
+```
+Error Handling 🚨
+```
+
+  </td>
+  <td  data-type="desc">
+
+```
+any Error Handling related changes.
+```
+
+  </td>
+  <td data-type="color">
+
+```
+#FFD9E5
+```
+
+  </td>
+  <td data-type="preview" width="200">
+
+<img width="120" alt="before" src=".github/error_handling.png">
+  </td>
+ </tr>
+
 </table>
 
 ## [Frontend Labels](#frontend-labels)
