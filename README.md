@@ -538,6 +538,33 @@ any Error Handling related changes.
 <img width="120" alt="before" src=".github/error_handling.png">
   </td>
  </tr>
+ <tr data-type="row">
+  <td data-type="label">
+
+```
+Static Data 💾
+```
+
+  </td>
+  <td  data-type="desc">
+
+```
+any static data change.
+```
+
+  </td>
+  <td data-type="color">
+
+```
+#eee
+```
+
+  </td>
+  <td data-type="preview" width="200">
+
+<img width="120" alt="before" src=".github/static_data.png">
+  </td>
+ </tr>
 
 </table>
 
