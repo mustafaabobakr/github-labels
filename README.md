@@ -103,6 +103,8 @@
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%2314151A.svg?style=for-the-badge&logo=react-query&logoColor=%23F4B30D)
 
 ```markdown
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -110,6 +112,14 @@
 
 ```markdown
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+```
+
+```markdown
+![React Router](https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+```
+
+```markdown
+![React Query](https://img.shields.io/badge/React_Query-%2314151A.svg?style=for-the-badge&logo=react-query&logoColor=%23F4B30D)
 ```
 
 ![PWA](https://img.shields.io/badge/PWA-%23FF4088.svg?style=for-the-badge&logo=pwa&logoColor=white)
